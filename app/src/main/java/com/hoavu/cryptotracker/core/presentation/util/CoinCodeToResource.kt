@@ -1,4 +1,4 @@
-package com.hoavu.cryptotracker.util
+package com.hoavu.cryptotracker.core.presentation.util
 
 import com.hoavu.cryptotracker.R
 

@@ -1,4 +1,4 @@
-package com.hoavu.cryptotracker.util
+package com.hoavu.cryptotracker.core.domain.util
 
 typealias DomainError = Error
 
