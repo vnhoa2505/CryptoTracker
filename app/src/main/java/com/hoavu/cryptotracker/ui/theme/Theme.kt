@@ -258,7 +258,7 @@ fun CryptoTrackerTheme(
 
   MaterialTheme(
     colorScheme = colorScheme,
-    typography = AppTypography,
+    typography = CryptoTrackerTypography,
     content = content
   )
 }
